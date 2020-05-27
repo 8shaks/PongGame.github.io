@@ -9,10 +9,14 @@ A step by step series of examples that tell you how to get a development env run
 
 Say what the step will be
 
-```
+
 Clone the repo:
-`git clone`
-```
+`git clone https://github.com/8shaks/PongGame.github.io.git`
+`npm install`
+`npm run start`
+
+I suggest using the liver server extension with VS Code so we don't have to continuously reload the page after making changes to the code.
+
 
 
 
